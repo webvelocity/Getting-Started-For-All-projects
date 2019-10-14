@@ -1,10 +1,13 @@
 1.Install npm via installer and node via cli (npm install node -g) or via(installer)
 2.Install yarn via (npm install yarn -g)
-3.Install git via installer
+3.Install git via git installer
 
 
 4. Install VUE / REACT / ANGULAR
 5. VSCODE EXTEBSIONS
+
+To export VSCODE extensions list use this on terminal code --list-extensions | % { "code --install-extension $_" }
+
 
 code --install-extension BenjaminZekavica.wordpress-gutenberg-snippets
 code --install-extension dariofuzinato.vue-peek
@@ -14,13 +17,16 @@ code --install-extension ecmel.vscode-html-css
 code --install-extension esbenp.prettier-vscode
 code --install-extension felixfbecker.php-intellisense  
 code --install-extension HookyQR.beautify
+code --install-extension HookyQR.minify
 code --install-extension hridoy.wordpress
 code --install-extension jeff-hykin.polacode-2019       
 code --install-extension mrmlnc.vscode-autoprefixer     
 code --install-extension mrmlnc.vscode-scss
+code --install-extension ms-vsliveshare.vsliveshare     
 code --install-extension msjsdiag.debugger-for-chrome   
 code --install-extension octref.vetur
 code --install-extension Orta.vscode-jest
+code --install-extension rifi2k.format-html-in-php      
 code --install-extension ritwickdey.live-sass
 code --install-extension ritwickdey.LiveServer
 code --install-extension shinnn.stylelint
