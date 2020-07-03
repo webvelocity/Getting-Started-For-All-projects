@@ -1,5 +1,6 @@
 1.Install npm via installer and node via cli (npm install node -g) or via(installer)
 2.Install yarn via (npm install yarn -g)
+2.a. Install NVM for nodejs management
 3.Install git via git installer
 
 
